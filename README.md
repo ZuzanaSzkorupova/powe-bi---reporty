@@ -1,4 +1,4 @@
-# powe-bi---reporty
+# powerbi---reporty
 # Analýza situace na prodejnách (2010–2022)
 
 Tento report byl vytvořen v nástroji Power BI na základě fiktivních dat simulujících situaci na prodejnách supermarketů v České republice v letech 2010–2022. Analýza se zaměřuje na prodeje, zaměstnance a zákaznické chování napříč sledovaným obdobím.
